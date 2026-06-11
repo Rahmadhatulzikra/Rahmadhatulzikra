@@ -51,7 +51,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="30" alt="gmail logo"  />
   </a>
 </div>
-
 ###
 
 <p align="left">Stats</p>

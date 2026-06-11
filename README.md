@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </div>
-###
+
 
 <p align="left">connection</p>
 
@@ -51,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="30" alt="gmail logo"  />
   </a>
 </div>
-###
+
 
 <p align="left">Stats</p>
 
